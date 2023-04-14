@@ -1,2 +1,2 @@
-# nicheswitch
-Having fun with switches. 
+# niche switch
+Having fun with mechanical switches, a project by Garbage File.
